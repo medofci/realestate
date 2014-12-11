@@ -17,7 +17,7 @@ class Home extends CI_Controller{
 
 	}
 	
-	///TEST PARA BORRAR...
+	///TEST PARA BORRAR
 	
 	public function testimagen(){
 		$this->load->view('html/testimagen');
